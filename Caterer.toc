@@ -1,3 +1,5 @@
+## Title: Caterer
+## Version: 1.0
 embeds.xml
 
 Locale\enUS.lua
