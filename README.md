@@ -9,6 +9,8 @@ Turtle Wow Caterer addon
 5. Place it in your WoWClient installation folder so the path looks like "%WowClient%/Interface/AddOns"
 6. If done correctly it should appear in AddOn List, and is ready to be used
 
+![Alt text](Docs/FolderStructure.png?raw=true "Title")
+![Alt text](Docs/Zip.png?raw=true "Title")
 
 # Features
 Insert conjured items into trade window with preset amount.
