@@ -1,5 +1,5 @@
 # Caterer
-Turtle Wow Caterer addon
+Turtle Wow Caterer addon with extra features.
 
 # Download
 1. Download ZIP
