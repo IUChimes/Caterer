@@ -3,14 +3,14 @@ Turtle Wow Caterer addon
 
 # Download
 1. Download ZIP
+![Alt text](Docs/Zip.png?raw=true "Download place")
 2. Extract ZIP
 3. Check the folder structure so it doesn't contain only one subfolder.
 4. Remove "-master" from the folder name
 5. Place it in your WoWClient installation folder so the path looks like "%WowClient%/Interface/AddOns"
+![Alt text](Docs/FolderStructure.png?raw=true "Folder Structure")
 6. If done correctly it should appear in AddOn List, and is ready to be used
 
-![Alt text](Docs/FolderStructure.png?raw=true "Title")
-![Alt text](Docs/Zip.png?raw=true "Title")
 
 # Features
 Insert conjured items into trade window with preset amount.
